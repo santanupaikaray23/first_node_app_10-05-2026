@@ -18,4 +18,39 @@ Reactjs
 
 2009 - Ryan Dhal -That helped Javascript to run the backend - node.js
 
+npm init
+npm install package(express)
+this will create node_module folder
 
+completed video:1st video Fullstack
+space - to add space se &nbsp
+p- Paragrapg
+abbr - abbreviation
+q - quotation
+cite - Defines the title of creative work(book, poem, song, movie)
+del - Tag is used to identify text has been deleted from a document but retained
+ to show the history of modification made to the dicument.
+ sup - Superscript, will be used for displaying text as superscript e.g Maths
+ sub - Subscript, will be used for displaying text as subscript for e.g chemical
+
+ HTML CSS
+ ---------
+ CSS - Cascading Stylesheet - To format the layout of my webpage
+-With CSS you can control the color, font, size of the text,
+element position, background, background images, background colors.
+
+CSS- Can be added to HTML document in  ways
+Inline-By using style attribute inside HTML Element 
+Internal-By using <style> element in <head> section
+External-By using <Link> element to link external CSS
+
+CSS Colors, Fonts, sizes
+---------------------------
+Color - defines the text of your color
+font-family- defines font to be used
+font-size - defines size of the font
+border -Define border for all html elememts
+Padding - Defines space between your text and the border
+Margin -  Defines the space between border
+
+completed video : 3th
