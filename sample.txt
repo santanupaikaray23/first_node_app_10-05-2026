@@ -53,4 +53,29 @@ border -Define border for all html elememts
 Padding - Defines space between your text and the border
 Margin -  Defines the space between border
 
+HTML Forms
+-----------
+Required to collect some data from the user, for e.g Name, Email, Phone
+
+<form action="/user" method="get">
+Form elements
+</form>
+
+HTTP Methods- GET, PUT, POST, deleted (CRUD OperationS)
+
+HTML FORM Controls
+--------------------
+1. Text Input Controls - Single line Input, Password Input, Mutiline Input
+2. Checkbox Controls - Value, Checked
+3. Radiobox Controls
+4. Selectbox control
+5. File Control
+6. Hidden Control
+7. Clickable Button
+8. Sumbit and reset Button
+9
+
+
+
+
 completed video : 3th
