@@ -73,9 +73,41 @@ HTML FORM Controls
 6. Hidden Control
 7. Clickable Button
 8. Sumbit and reset Button
-9
+
+Block Level Element and Inline Element
+------------------------------------------
+Block level elememt occupies entire space of the parent element.
+
+Always starts in a new line
+
+Block-Level Elements:
+------------------------------
+1.H1-H2
+2.<table>
+3.<p>
+4.<div>
+<5><form>
+6.<Video>
+7.<hr>
+5.<Address>
+7. header
+8. <Footer>
+
+Inline Elements:
+----------------
+<span>
+<a>
+<button>
+<sup>
+<sub>
+<text Area>
+<level>
+<b>
+<strong>
 
 
 
 
-completed video : 3th
+
+
+completed video : 4th
