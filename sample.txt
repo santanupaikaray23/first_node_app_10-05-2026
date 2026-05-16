@@ -105,9 +105,43 @@ Inline Elements:
 <b>
 <strong>
 
+span - container used to mark up a part of text or part of document
 
+div - It is often used as a container for other HTML Elements
+DEFINES a division or a section in an HTML document
+Any sort of content can be placed inside<div>Tag
+div- known as division Tag
+lavel vs span
+--------------
+Label is used when we have form or input elements
+Span is used anywhere, this is a general container for any inline content.
 
+HTML DOM(Document Object Model)
+---------------------------------
+When page is loaded, browser creates a document object Model of the 
+page.
 
+Usage: With HTML DOM Javascript can access all the elements of HTML Document
 
+Javascript can add, remove, change all the HTML Elements, HTML attribute, css styles in the page.
 
-completed video : 4th
+Javascript can react to HTML EVENTS,  CAN create new HTML Events in the page.
+
+Video 
+-------
+Will help you display video in the page.
+
+controls -  The browser will offer controls to allow the user to control audio, Playback, valum,
+Pause/Resume.
+
+autoplay -This audio will automatically begin Playback as soon as it can.
+
+muted - will mute the audio
+
+audio
+-----
+Will help you display audio in the page.
+controls: The browser will offer controls to allow the user to control audio, playback, volume, pause/Resume.
+autoplay: The audio will automatically begin playback as soon as 
+
+completed video : 5th
