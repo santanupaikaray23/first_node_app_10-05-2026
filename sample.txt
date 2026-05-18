@@ -144,4 +144,32 @@ Will help you display audio in the page.
 controls: The browser will offer controls to allow the user to control audio, playback, volume, pause/Resume.
 autoplay: The audio will automatically begin playback as soon as 
 
-completed video : 5th
+Semantic elements
+-------------------
+Elements with some meaning and clearly tell us what the content is about.
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<section>
+<summary>
+<time>
+
+Non Semantic Elements
+---------------------
+<div>
+<span>
+Tells nothing about the content.
+<div id="nav">
+<div class="header">
+<div class="footer">
+
+
+
+
+completed video : 6th
